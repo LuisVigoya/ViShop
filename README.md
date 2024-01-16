@@ -1,27 +1,20 @@
-# ViShop
+# Pasos para descargar e inciar el proyecto
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.4.
+1. Cree una carpeta en su computador y nombrela `ViShop`
+2. abra la ventana de comandos entre a la carpeta creada y clone el repositorio
+3. Clone el repositorio con el siguiente comando `git clone https`
+4. Una vez clonado haga un cd a esa carpeta que se creo dentro de `ViShop` y renombrela a `01-ViShop`
+5. Entre a su rama correspondiente
+7. Instale los modulos de node con el siguiente comando `npm install`
+6. Para inicializar el proyecto use `npm start`
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Cambios con el initial commit
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+- Se realizo la intalacion del primeNG en su version 16.8.0
+- Se realizo la instalcion de Prime Flex
+- Se configuro dentro de app el modulo de prime-ng, donde se podran realizar las distintas importacion de los componentes
+que vamos usando en nuestro proyecto y que provienen de primeNG, estas importaciones funcionaran de forma global ya que se
+importo el modulo completo en app.module.ts
+- Se realizo la configuracion del efecto ripple de primeNG en el app.component.ts
+- Se configuro el tema lara-light-blue en el angular.json styles y del mismo modo en app/styles.css
