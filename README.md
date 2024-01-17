@@ -12,14 +12,14 @@
 7. Instale los modulos de node con el siguiente comando `npm install`
 6. Para inicializar el proyecto use `npm start`
 
-# Pasos para subir cambios a git
+# Pasos para hacer un push a git
 
 1. Para subir los cambios al git ejecute el comando `git push -u origin NombreRama`
 2. una vez realizado esto con su `NombreRama` Respetivo en futuros push solo debera ejecutar el comando `git push`
 3. para agregar los cambios a la rama main debera hacerlo con un `Pull Request` y estos seran validados para incluir en el main
 
-# Pasos para hacer un Pull del proyecto
-1. Ya hubicado en la ruta se su proyecto ejecute el comando `git pull` previamente verifique que se encuentraen su rama
+# Pasos para hacer un Pull dde git
+1. Ya hubicado en la ruta se su proyecto ejecute el comando `git pull origin main` previamente verifique que se encuentran  en su rama para traer los cambios que se encuentren en main
 
 
 ## Cambios con el initial commit
