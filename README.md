@@ -19,6 +19,8 @@
 3. para agregar los cambios a la rama main debera hacerlo con un `Pull Request` y estos seran validados para incluir en el main
 
 # Pasos para hacer un Pull de git
+1. Verifique si hay cambios en la rama main usando `git fetch`, esto solo me actualiza los commit que se encuentras hechos
+en el repositorio en git a mi repositorio local, no hace cambios en los archivos
 1. Ya hubicado en la ruta se su proyecto ejecute el comando `git pull origin main` previamente verifique que se encuentran  en su rama para traer los cambios que se encuentren en main
 
 
