@@ -14,7 +14,12 @@
 
 # Pasos para subir cambios a git
 
-1. 
+1. Para subir los cambios al git ejecute el comando `git push -u origin NombreRama`
+2. una vez realizado esto con su `NombreRama` Respetivo en futuros push solo debera ejecutar el comando `git push`
+3. para agregar los cambios a la rama main debera hacerlo con un `Pull Request` y estos seran validados para incluir en el main
+
+# Pasos para hacer un Pull del proyecto
+1. Ya hubicado en la ruta se su proyecto ejecute el comando `git pull` previamente verifique que se encuentraen su rama
 
 
 ## Cambios con el initial commit
