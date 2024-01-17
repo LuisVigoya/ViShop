@@ -2,7 +2,7 @@
 
 1. Cree una carpeta en su computador y nombrela `ViShop`
 2. abra la ventana de comandos entre a la carpeta creada y clone el repositorio
-3. Clone el repositorio con el siguiente comando `git clone https`
+3. Clone el repositorio con el siguiente comando `git clone https://github.com/LuisVigoya/ViShop.git`
 4. Una vez clonado haga un cd a esa carpeta que se creo dentro de `ViShop` y renombrela a `01-ViShop`
 5. Entre a su rama correspondiente con el comando `git checkout NombreRama`
   - Nombres de rama creados
