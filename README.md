@@ -33,3 +33,5 @@ que vamos usando en nuestro proyecto y que provienen de primeNG, estas importaci
 importo el modulo completo en app.module.ts
 - Se realizo la configuracion del efecto ripple de primeNG en el app.component.ts
 - Se configuro el tema lara-light-blue en el angular.json styles y del mismo modo en app/styles.css
+# git branch -a
+- para ver todas las ramas , tanto locales como remotas.
