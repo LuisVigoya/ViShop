@@ -35,3 +35,4 @@ importo el modulo completo en app.module.ts
 - Se configuro el tema lara-light-blue en el angular.json styles y del mismo modo en app/styles.css
 # git branch -a
 - para ver todas las ramas , tanto locales como remotas.
+# .l.
